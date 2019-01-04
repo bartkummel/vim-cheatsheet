@@ -14,7 +14,7 @@ So, I ended up creating my own cheat sheet. Design goals are:
 - Being printable on a single A4 sized paper; 
 - Last but not least: being open source.
 
-And here's the result so far: [VIM cheat sheet](cheatsheet.png)
+And here's the result so far: ![VIM cheat sheet](cheatsheet.png)
 
 You can also [download it as PDF](cheatsheet.pdf)
 
